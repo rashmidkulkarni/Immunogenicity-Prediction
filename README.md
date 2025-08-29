@@ -1,5 +1,5 @@
 
-# 🧬 Immunogenicity-Prediction
+# Immunogenicity-Prediction
 This project explores machine learning models for predicting human immunogenicity to therapeutic biologics (e.g., Humira, Erenumab, Herceptin) by leveraging HLA allele information and both ex-vivo and in-silico datasets.
 #  Overview
 Predicting immunogenicity is a critical challenge in biologics and vaccine development. Individual variability in HLA class II alleles influences whether the immune system recognizes therapeutic proteins as foreign, leading to T-cell proliferation and adverse responses.
